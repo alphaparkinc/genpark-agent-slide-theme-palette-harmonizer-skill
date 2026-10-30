@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-slide-theme-palette-harmonizer-skill",
+  "version": "1.0.0",
+  "description": "Presentation theme and color palette harmonizer calculating WCAG contrast ratios",
+  "mcp": {
+    "server": "mcp_server.py",
+    "tools": [
+      "generate_theme_tokens"
+    ]
+  }
+}
